@@ -1,3 +1,6 @@
+% Code by Lauren Stanley
+% Group Project 
+
 function [x_desired,y_desired,z_desired]=TrajectoryGeneratorv0()
     plotOn = false;
     syms t;    
