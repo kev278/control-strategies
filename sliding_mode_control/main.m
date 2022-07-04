@@ -1,3 +1,5 @@
+% Code in association with Lauren Stanley
+
 %% Initialization
 clf 
 % Time Step Settings

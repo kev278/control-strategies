@@ -1,3 +1,6 @@
+% Code by Lauren Stanley
+% Group Project
+
 function [x_desired,y_desired,z_desired,x_dot_desired,y_dot_desired,z_dot_desired,x_double_dot_desired,y_double_dot_desired,z_double_dot_desired]=TrajectoryGenerator(t)  
     t0 = 0;
     t1 = 5;
