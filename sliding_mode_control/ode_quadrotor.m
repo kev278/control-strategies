@@ -1,3 +1,5 @@
+% In association with Lauren Stanley
+
 %ODE Function for quadrotor
 function dxdt=ode_quadrotor(t,X)
     % Print Time
